@@ -12,3 +12,4 @@ I used the command line to initialize my repository (`git init`), add files (`gi
 * `Add my own edited version`
 * `Add assistant-created draft`
 * `Initial repository setup`
+* `Updating the README`
