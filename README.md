@@ -13,3 +13,6 @@ I used the command line to initialize my repository (`git init`), add files (`gi
 * `Add assistant-created draft`
 * `Initial repository setup`
 * `Update the README`
+
+**Walkthrough Video:**
+https://youtu.be/Fvrx_IdXYIM
